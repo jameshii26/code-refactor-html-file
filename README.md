@@ -6,20 +6,20 @@ This is my updated repo that I refactored the code that is more accessible. All 
 # Deployed link
 https://jameshii26.github.io/code-refactor-html-file/
 
-# Repo link
+# Repo link source code
 https://github.com/jameshii26/code-refactor-html-file
 
-## Table content
+# Table content
 
-# Screen shot
+## Screen shot
 ![alt text](/screenshot.png)
 
 
-# Usage
+## Usage
 To use this page, you can easily browse on the page & click service tab on the right top page to link to the service topic in detail.
 
-Credits
+# Credits
 N/A
 
-## License
+# License
 MIT. Please refer to the LICENSE in the repo.
